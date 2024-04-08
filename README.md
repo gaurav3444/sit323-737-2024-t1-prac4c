@@ -44,4 +44,4 @@ thereby enriching the functionality of the microservice and providing users with
   * <img width="150" alt="Screenshot 2024-04-08 at 3 19 26 pm" src="https://github.com/gaurav3444/sit323-737-2024-t1-prac4c/assets/66586901/1f309bf7-bf2e-4584-a66d-11db1e1ff107">
 
 **Terminal output**
-<img width="810" alt="Screenshot 2024-04-08 at 3 21 01 pm" src="https://github.com/gaurav3444/sit323-737-2024-t1-prac4c/assets/66586901/78d49bf8-00aa-41ee-bfa1-34f19510207f">
+* <img width="810" alt="Screenshot 2024-04-08 at 3 21 01 pm" src="https://github.com/gaurav3444/sit323-737-2024-t1-prac4c/assets/66586901/78d49bf8-00aa-41ee-bfa1-34f19510207f">
